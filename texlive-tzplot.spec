@@ -1,6 +1,6 @@
 Name:		texlive-tzplot
 Version:	64537
-Release:	1
+Release:	2
 Summary:	Plot graphs with TikZ abbreviations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tzplot
