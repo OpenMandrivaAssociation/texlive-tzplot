@@ -3,7 +3,7 @@ Version:	64537
 Release:	2
 Summary:	Plot graphs with TikZ abbreviations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tzplot
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tzplot
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tzplot.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tzplot.doc.r%{version}.tar.xz
